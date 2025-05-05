@@ -35,5 +35,6 @@ To run the analysis and modeling:
    - `dataset.py` https://github.com/Mohammadsofy/FuelConsumptionCo2/blob/main/dataset.py
 
 2. Make sure you have the required libraries installed:
+   ```bash
    pip install pandas matplotlib seaborn scikit-learn
    
